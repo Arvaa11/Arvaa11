@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Arwa Khan 👋
+# Hi, I'm Arwa Mahmood 👋
 
 ### Web Developer • React.js • JavaScript • Building Useful Web Products
 
